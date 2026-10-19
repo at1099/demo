@@ -1,0 +1,4 @@
+player 1 initial hand 5 5 5 5
+player 1 wins
+player 1 exits
+player 1 final hand: 5 5 5 5

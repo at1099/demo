@@ -1,0 +1,3 @@
+player 1 has informed player 2 that player 1 has won
+player 2 exits
+player 2 final hand: 2 2 2 2

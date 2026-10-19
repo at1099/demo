@@ -1,0 +1,6 @@
+com\example\PlayerConcurrencyTest.class
+com\example\GameSetupTest.class
+com\example\DeckConcurrencyTest.class
+com\example\DeckTest.class
+com\example\MainTest.class
+com\example\PlayerTest.class
